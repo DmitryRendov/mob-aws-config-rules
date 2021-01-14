@@ -1,0 +1,1 @@
+# mob-aws-config-rules
