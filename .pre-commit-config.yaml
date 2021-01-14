@@ -16,7 +16,7 @@ repos:
       - id: check-merge-conflict
       - id: check-executables-have-shebangs
 
-  - repo: https://github.com/pre-commit/mirrors-pylint
-    rev: v2.6.0
-    hooks:
-      - id: pylint
+#  - repo: https://github.com/pre-commit/mirrors-pylint
+#    rev: v2.6.0
+#    hooks:
+#      - id: pylint
